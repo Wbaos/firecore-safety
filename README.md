@@ -6,4 +6,4 @@ I install and service fire alarm systems, fire sprinkler systems, fire suppressi
 
 You can reach me at (786) 366-2729.
 
-This repository holds the website for firecoresafety.com. The site is a single static page (`index.html`) in English and Spanish, plus the company logo (`logo.webp`).
+This repository holds the website for firecoresafety.com. The site is a single static page (`index.html`) in English and Spanish.
